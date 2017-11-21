@@ -232,7 +232,7 @@ textarea {
     color: #a6a6a6;
 }
 
-.main_slide {}
+.main_slide {width: 100%;}
 
 .phone_details {
     width: 480px;
@@ -336,7 +336,7 @@ textarea {
     margin-top: 40px;
 
 }
-.image1{width: 100%;}
+.image1{}
 #sub_footer{}
 
 
